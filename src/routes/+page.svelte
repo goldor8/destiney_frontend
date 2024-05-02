@@ -44,3 +44,4 @@ import logo from "$lib/assets/img/Destiney_image.jpg";
 </body>
 
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<a href="/about">about</a>
